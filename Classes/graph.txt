@@ -1,0 +1,68 @@
+# Bars
+Bar 1
+Bar 2
+Bar 3
+Bar 4
+Bar 5
+Bar 6
+Bar 7
+Bar 8
+Bar 9
+Bar 10
+Bar 11
+Bar 12
+Bar 13
+Bar 14
+Bar 15
+Bar 16
+Bar 17
+Bar 18
+Bar 19
+Bar 20
+Bar 21
+Bar 22
+Bar 23
+Bar 24
+
+# Connections
+Bar 1, Bar 2, 1
+Bar 1, Bar 21, 1
+Bar 1, Bar 22, 3
+Bar 2, Bar 3, 2
+Bar 2, Bar 21, 1
+Bar 3, Bar 4, 1
+Bar 3, Bar 17, 4
+Bar 3, Bar 19, 2
+Bar 4, Bar 5, 1
+Bar 5, Bar 6, 1
+Bar 5, Bar 17, 4
+Bar 6, Bar 7, 1
+Bar 7, Bar 8, 2
+Bar 7, Bar 9, 2
+Bar 7, Bar 10, 3
+Bar 7, Bar 14, 2
+Bar 8, Bar 10, 4
+Bar 9, Bar 10, 2
+Bar 9, Bar 11, 1
+Bar 10, Bar 11, 2
+Bar 11, Bar 12, 1
+Bar 11, Bar 14, 1
+Bar 12, Bar 13, 1
+Bar 13, Bar 14, 2
+Bar 13, Bar 15, 1
+Bar 13, Bar 16, 1
+Bar 14, Bar 15, 2
+Bar 15, Bar 16, 1
+Bar 15, Bar 17, 5
+Bar 16, Bar 17, 6
+Bar 17, Bar 18, 1
+Bar 17, Bar 19, 1
+Bar 18, Bar 19, 1
+Bar 18, Bar 24, 2
+Bar 19, Bar 20, 1
+Bar 19, Bar 24, 2
+Bar 20, Bar 21, 1
+Bar 20, Bar 22, 1
+Bar 21, Bar 22, 2
+Bar 22, Bar 23, 2
+Bar 23, Bar 24, 1
