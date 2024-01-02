@@ -1,0 +1,34 @@
+-->page d'accueil                                               FAIT
+    -->Page de connexionCOLOC                                   
+        -texte de connexion
+        -Zone de texte pour s'identifier
+            *ID
+            *MDP
+            --> MenuCOLOC
+                -Menu
+                -deconnection
+                --> bar
+                    -Retour
+                    -Deconnection
+                    -[...]
+                        *Choix des bars et du nombre
+                        -->PageResultat
+                --> Taches
+                    -Retour
+                    -Deconnection
+                    -TableauSuiviTaches
+                        *Modification
+                --> Loyer
+                    -Retour
+                    -Deconnection
+                    -Menu
+                        -->Historique
+                        -->Paiement
+    -->Page de connexionPROPRIO
+        -texte de connexion
+        -Zone de texte pour s'identifier
+            *ID
+            *MDP
+        --> MenuProprio
+            -deconnection
+            -TableauListageDesPaiements
